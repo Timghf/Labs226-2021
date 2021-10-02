@@ -36,12 +36,7 @@ namespace Labs226_2021
                         }
                     }
                 }
-
-                if (i + 1 == 2)
-                {
                     Console.WriteLine($" {i + 1} = {max}");
-                }
-
             }
         }
 
